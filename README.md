@@ -7,7 +7,6 @@ React
 Node.js
 Express
 MongoDB
-Laravel
 
 Currently learning:
 Advanced React Architecture
